@@ -44,34 +44,11 @@ Proje, okunabilirliği ve bakımı kolaylaştırmak adına modüler metotlara ay
 
 ## 📸 Ekran Görüntüsü / Örnek Çalışma
 
-=================================
+<img width="335" height="412" alt="1" src="https://github.com/user-attachments/assets/91e46d11-c906-4487-bff9-e2b5af73d30c" />
 
-   TAŞ - KAĞIT - MAKAS OYUNU     
-=================================
+<img width="360" height="168" alt="3" src="https://github.com/user-attachments/assets/ab1a9ec6-12c0-4fe7-9bf9-333230d94a52" />
 
-Oyun Modunu Seçin:
-1 - 3 Tura Ulaşan Kazanır
-2 - 5 Tura Ulaşan Kazanır
-Tercihiniz (1 veya 2): 1
+<img width="312" height="482" alt="2" src="https://github.com/user-attachments/assets/c56fd2fa-f5ac-41cc-9738-6a7d9bcde854" />
 
---- 1. TUR ---
-Skor: Siz [0] - [0] Bilgisayar
-Seçiminizi yapın:
-1 - Taş
-2 - Kağıt
-3 - Makas
-Seçiminiz (1-3): 1
-
-Sizin Seçiminiz     : Tas
-Bilgisayarın Seçim : Makas
->> Bu turu SİZ KAZANDINIZ!
-
-==================================
-          OYUN BİTTİ!            
-=================================
-Sonuç Skor: Siz [3] - [1] Bilgisayar
-Tebrikler, Oyunu SİZ KAZANDINIZ! 🏆
-
-Yeniden oynamak ister misiniz? (E/H):
 
 ---
