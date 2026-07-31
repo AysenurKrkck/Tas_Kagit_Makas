@@ -1,0 +1,7 @@
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\bin\Debug\TasKagitMakas.exe.config
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\bin\Debug\TasKagitMakas.exe
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\bin\Debug\TasKagitMakas.pdb
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\obj\Debug\TasKagitMakas.exe
+C:\Users\zeyne\OneDrive\Masaüstü\TasKagitMakas\obj\Debug\TasKagitMakas.pdb
